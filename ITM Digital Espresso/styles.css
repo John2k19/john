@@ -1,0 +1,21 @@
+a:link {
+Color: "yellow";
+}
+
+a:hover {
+Color:"blue";
+}
+
+body {
+  font-family: "Avenir";
+}
+
+
+h1 {
+  color: "black";
+  text-align: "center";
+  font-family: "Avenir";
+} 
+
+
+
